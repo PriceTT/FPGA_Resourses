@@ -1,12 +1,13 @@
 # FPGA_Resourses
 
 Overview FPGA  
-https://www.freelearner.how/2018/01/23/fpga-will-rule-cryptomining-2018/
 https://www.amiq.com/consulting/misc/free_pdf_books/fpgas_for_dummies_ebook.pdf
+https://www.freelearner.how/2018/01/23/fpga-will-rule-cryptomining-2018/
 https://www.eetimes.com/document.asp?doc_id=1329857
 
 FPGA abd Python  
 http://www.pynq.io/
+http://www.myhdl.org/  
 https://www.element14.com/community/groups/development-tools/blog/2018/04/04/programming-python-on-xilinx-zynq
 
 FPGA Machien Learning  
