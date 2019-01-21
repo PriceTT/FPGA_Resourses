@@ -4,7 +4,7 @@ Overview FPGA
 https://www.amiq.com/consulting/misc/free_pdf_books/fpgas_for_dummies_ebook.pdf
 https://www.freelearner.how/2018/01/23/fpga-will-rule-cryptomining-2018/
 https://www.eetimes.com/document.asp?doc_id=1329857  
-https://drive.google.com/open?id=18bhZ6nakZLI6Xo7RtOF5NRDbINnlNQhb  
+https://drive.google.com/open?id=18bhZ6nakZLI6Xo7RtOF5NRDbINnlNQhbJ  
 
 FPGA abd Python  
 http://www.pynq.io/  
